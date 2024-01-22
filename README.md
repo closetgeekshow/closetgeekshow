@@ -9,7 +9,7 @@ My fun hats: 🥳 Web Developer, 🎓 Hobbyist Game Developer, 👒 Podfaded Pod
 - 💬 Ask me about Axure RP, RAG, Unity or UI design
 
 #### Find me on daily.dev (my favorite place for dev news)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/closetgeekshow/closetgeekshow/blob/main/devcard.svg" width="256" alt="Brent Morris' Dev Card"/></a>
+<a href="https://app.daily.dev"><img src="https://github.com/closetgeekshow/closetgeekshow/blob/main/devcard.svg" width="256" alt="Brent Morris' Dev Card"/></a>
 
 #### My socials 
 My Blog: https://closetgeekshow.ca
