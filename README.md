@@ -2,13 +2,9 @@
 
 I wear many hats though most of them for fun. At work I wear a UX Architect hat🎩, design systems and bespoke UIs. I've been designing easy-to-use but complex UIs for over 15 years. Fascinated by all things webdev, gamedev and novel uses of technology. 
 
+My fun hats: 🥳 Web Developer, 🎓 Hobbyist Game Developer, 👒 Podfaded Podcaster 
 
-My fun hats:  
-- 🥳 Web Developer 
-- 🎓 Hobbyist Game Developer
-- 👒 Podfaded Podcaster 
-
-
+#### What I'm up to
 - 🌱 I’m currently learning ChatGPT/LLMs, React, Unity, BabylonJS
 - 💬 Ask me about Axure RP, RAG, Unity or UI design
 
