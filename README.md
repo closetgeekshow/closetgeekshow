@@ -26,4 +26,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 #### Find me on daily.dev (my favorite place for dev news)
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/closetgeekshow/closetgeekshow/blob/master/devcard.svg" width="400" alt="Brent Morris' Dev Card"/></a>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/closetgeekshow/closetgeekshow/blob/main/devcard.svg" width="400" alt="Brent Morris' Dev Card"/></a>
+
+#### My socials 
+My Blog: https://closetgeekshow.ca
+Twitter: https://twitter.com/closetgeekshow
+Mastodon: https://c.im/@closetgeekshow
+Facebook: https://www.facebook.com/closetgeekshow
+Linked In: https://www.linkedin.com/in/brentmorris/
