@@ -1,13 +1,13 @@
-## Hey there, I'm Brent Morris (he/him) known as closetgeekshow. 
+## Hey there, I'm Brent Morris (he/him). I'm known online as closetgeekshow usually. 
 
-### I wear many hats though most of them for fun. 
+### I wear many hats 
 
 At work I wear a UX Architect hat🎩, I've been designing easy-to-use but complex UIs for over 15 years. :
 - creating robust responsive design systems 
 - bespoke UIs for business applications
 - creating answers to unique and complicated questions of design 
 
-My fun hats: 🥳 Web Developer, 🎓 Hobbyist Game Developer, 👒 Podfaded Podcaster 
+My recreational hats: 🥳 Web Developer, 🎓 Hobbyist Game Developer, 👒 Podfaded Podcaster 
 
 #### What I'm up to
 - 🧠 Fascinated by all things webdev, gamedev and novel uses of technology.
