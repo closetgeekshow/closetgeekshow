@@ -9,15 +9,12 @@ At work I wear a UX Architect hat🎩, I've been designing easy-to-use but compl
 
 My recreational hats: 🥳 Web Developer, 🎓 Hobbyist Game Developer, 👒 Podfaded Podcaster 
 
-#### What I'm up to
-- 🧠 Fascinated by all things webdev, gamedev and novel uses of technology.
-- 🌱 I’m currently learning ChatGPT/LLMs, React, Unity, BabylonJS
-- 💬 Ask me about Axure RP, RAG, Unity or UI design
+Fascinated by all things webdev, gamedev and novel uses of technology, [my stars](https://github.com/closetgeekshow?tab=stars) are a good clue on what I'm currently thinking about or playing with. 
 
 #### My socials 
 My Blog: https://closetgeekshow.ca
 
-Twitter: https://twitter.com/closetgeekshow
+Bluesky: https://closetgeekshow.bsky.social
 
 Mastodon: https://c.im/@closetgeekshow
 
