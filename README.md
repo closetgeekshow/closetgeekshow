@@ -16,8 +16,4 @@ My Blog: https://closetgeekshow.ca
 
 Bluesky: https://closetgeekshow.bsky.social
 
-Mastodon: https://c.im/@closetgeekshow
-
-Facebook: https://www.facebook.com/closetgeekshow
-
 Linked In: https://www.linkedin.com/in/brentmorris/
